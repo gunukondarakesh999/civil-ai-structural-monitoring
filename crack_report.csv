@@ -1,0 +1,9 @@
+Crack ID,Width (mm),Severity
+1,0.15, ✅ Safe
+2,0.22,⚠ Monitor
+3,0.2, ✅ Safe
+4,0.35,🔧 Repair Needed
+5,0.4,🔧 Repair Needed
+6,0.6,🚨 Critical
+7,0.11, ✅ Safe
+8,0.65,🚨 Critical
